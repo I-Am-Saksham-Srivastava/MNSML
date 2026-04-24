@@ -1,0 +1,42 @@
+name: example
+description: A set of examples showing effective use of MNSML.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# Read more about versioning at semver.org.
+version: 1.1.0
+
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+
+dependencies:
+  connectivity:
+  cupertino_icons:
+  flutter:
+    sdk: flutter
+  github:
+  http:
+  json_annotation:
+  json_serializable:
+  mnsml:
+    path: ../
+  codegen:
+    path: ../tools/codegen
+  provider:
+  shared_preferences:
+  url_launcher:
+  validators2:
+
+dev_dependencies:
+  build_runner:
+  flutter_lints:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/

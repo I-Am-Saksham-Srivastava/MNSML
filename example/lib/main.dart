@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mnsml/mnsml.dart';
-import 'package:example/custom/connectivity/connectivity_store.dart';
+import 'package:example/connectivity/connectivity_store.dart';
 import 'package:example/counter/counter.dart';
 import 'package:example/examples.dart';
 import 'package:example/multi_counter/multi_counter_store.dart';

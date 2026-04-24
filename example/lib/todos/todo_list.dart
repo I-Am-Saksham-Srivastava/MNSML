@@ -1,6 +1,6 @@
 import 'package:json_annotation/json_annotation.dart';
 import 'package:mnsml/mnsml.dart';
-import 'package:example/custom/todos/observable_todo_list_converter.dart';
+import 'package:example/todos/observable_todo_list_converter.dart';
 
 import 'todo.dart';
 

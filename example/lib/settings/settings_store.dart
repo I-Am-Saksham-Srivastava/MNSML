@@ -1,5 +1,5 @@
 import 'package:mnsml/mnsml.dart';
-import 'package:example/custom/settings/preferences_service.dart';
+import 'package:example/settings/preferences_service.dart';
 
 part 'settings_store.g.dart';
 

@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
-import 'package:example/custom/clock/clock_widgets.dart';
-import 'package:example/custom/connectivity/connectivity_store.dart';
-import 'package:example/custom/connectivity/connectivity_widgets.dart';
-import 'package:example/custom/counter/counter_widgets.dart';
-import 'package:example/custom/dice/dice_widgets.dart';
-import 'package:example/custom/form/form_widgets.dart';
-import 'package:example/custom/github/github_widgets.dart';
-import 'package:example/custom/hackernews/news_widgets.dart';
-import 'package:example/custom/multi_counter/multi_counter_widgets.dart';
-import 'package:example/custom/random_stream/random_widgets.dart';
-import 'package:example/custom/settings/settings_store.dart';
-import 'package:example/custom/settings/settings_widgets.dart';
-import 'package:example/custom/todos/todo_widgets.dart';
+import 'package:example/clock/clock_widgets.dart';
+import 'package:example/connectivity/connectivity_store.dart';
+import 'package:example/connectivity/connectivity_widgets.dart';
+import 'package:example/counter/counter_widgets.dart';
+import 'package:example/dice/dice_widgets.dart';
+import 'package:example/form/form_widgets.dart';
+import 'package:example/github/github_widgets.dart';
+import 'package:example/hackernews/news_widgets.dart';
+import 'package:example/multi_counter/multi_counter_widgets.dart';
+import 'package:example/random_stream/random_widgets.dart';
+import 'package:example/settings/settings_store.dart';
+import 'package:example/settings/settings_widgets.dart';
+import 'package:example/todos/todo_widgets.dart';
 import 'package:provider/provider.dart';
 
 class Example {

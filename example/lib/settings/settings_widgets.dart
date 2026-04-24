@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:example/custom/settings/settings_store.dart';
+import 'package:example/settings/settings_store.dart';
 import 'package:mnsml/mnsml.dart';
 
 class SettingsExample extends StatelessWidget {

@@ -1,5 +1,5 @@
 import 'package:mnsml/mnsml.dart';
-import 'package:example/custom/hackernews/hn_api.dart';
+import 'package:example/hackernews/hn_api.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 part 'news_store.g.dart';

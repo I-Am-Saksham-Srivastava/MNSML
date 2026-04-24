@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mnsml/mnsml.dart';
-import 'package:example/custom/todos/todo_list.dart';
+import 'package:example/todos/todo_list.dart';
 
 void main() {
   late TodoList list;

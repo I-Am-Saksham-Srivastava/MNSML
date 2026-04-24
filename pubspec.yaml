@@ -11,6 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   mocktail: ^1.0.4
+  source_gen: ^4.2.2
 
 dev_dependencies:
   flutter_test:
